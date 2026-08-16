@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use DiffHallu, please cite this software and the associated paper."
+title: "DiffHallu"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Chen
+    given-names: Zi-Han
+  - family-names: Xie
+    given-names: Rui-Lin
+  - family-names: Wang
+    given-names: Lu-Lu
+  - family-names: Liao
+    given-names: Li
+  - family-names: Zhou
+    given-names: Ying
