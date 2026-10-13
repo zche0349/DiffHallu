@@ -6,11 +6,20 @@ continuations produced by the same target model under the same prefix, groups
 semantically equivalent continuations, and reports their average weighted
 semantic entropy as a continuous risk score.
 
-This repository contains the method only. It does not include model weights,
-model deployment code, datasets, experiment scripts, evaluation metrics,
-threshold selection, or reported experiment results.
+This repository provides the core method implementation. Supporting experimental
+materials are available through the link below.
 
 Chinese documentation: [README_zh-CN.md](README_zh-CN.md)
+
+## Reproduction materials
+
+[Download the DiffHallu reproduction materials from Google Drive](https://drive.google.com/drive/folders/12O1JY1aL4N-JBhYNvknP7U8ISY03HDMf?usp=sharing).
+
+The materials include processed experiment data and fixed data splits, generated
+candidates and truth labels, experiment and baseline scripts and configurations,
+probe model artifacts, runtime environment and dependency version information,
+experiment results, and reproduction tools. See the folder's README for its
+structure and usage instructions.
 
 ## Method
 
